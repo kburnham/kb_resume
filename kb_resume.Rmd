@@ -1,0 +1,140 @@
+---
+title: "Kevin Burnham's resume"
+author: Kevin Burnham
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> kburnham@gmail.com
+- <i class="fa fa-github"></i> [github.com/kburnham](https://github.com/kburnham)
+- <i class="fa fa-phone"></i> (512) 596-6958
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/kevinrburnham/](https://www.linkedin.com/in/kevinrburnham/)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Highly skilled in R, Python, SQL
+
+- Airflow, dbt, Snowflake
+
+- GCS
+
+
+<!-- Disclaimer {#disclaimer} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). -->
+
+<!-- Last updated on `r Sys.Date()`. -->
+
+
+
+Main
+================================================================================
+
+Kevin Burnham {#title}
+--------------------------------------------------------------------------------
+
+Full stack data professional with 7+ years experience in data science, data analytics and data engineering across a diverse array of internal divisions including finance, marketing, customer service and product
+
+
+Industry Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Senior Data Engineer
+
+ZenBusiness
+
+Austin, TX
+
+2022 - current
+
+- Set up and monitored numerous third party data ingests using Python, terraform (GCS), Snowflake, dbt and airflow 
+- Built and maintained data pipelines for modeling and reporting
+
+### Senior Data Analyst
+
+ZenBusiness
+
+Austin, TX
+
+2020 - 2022
+
+- Wrote data pipelines and built dashboards translating line item sales data into key financial metrics including LTV, churn rates, annualized revenue run rate, and more for a rapidly growing SaaS company
+- Worked with partners across multiple portfolios (product, marketing, finance, customer service) to determine data needs and how to meet them
+
+### Senior Data Analyst
+
+Social Solutions 
+
+Austin, TX
+
+2019 - 2020
+
+- Designed and maintained multiple internal company dashboards
+- Created central repository of third party and internal data sources
+- Provide data support for internal initiatives including lead scoring, eCommerce targeting and sales pipeline analysis
+
+### Senior Data Scientist
+
+Pilytix
+
+Austin, TX
+
+2015 - 2019
+
+- Joined as first data science hire and helped build to $1M ARR
+- Built hierarchical models that put actionable information in the hands of sales managers and sales reps 
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Univertiy of Texas - Austin
+
+PhD in Middle Eastern Studies
+
+Austin, TX
+
+2013
+
+<!-- Thesis: Phonetic Training for Learners of Arabic -->
+
+### Georgetown University
+
+MA in Arabic Language, Literature and Linguistics
+
+Washington, DC
+
+2006
+
+### Portland State University
+
+MA in Economics
+
+Portland, OR
+
+2003
+
+### Bucknell University
+
+BA in Russian
+
+Lewisburg, PA
+
+1995
